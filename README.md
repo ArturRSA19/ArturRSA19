@@ -1,12 +1,14 @@
-# 👋 Olá! 
+# 👋 Hi! 
 
-- Me chamo Artur Rodrigues!
+## I'm Artur Rodrigues! 🧑🏻‍💻
 
-- 📖 Atualmente estou cursando Engenharia De Software na Universidade de Brasília (UnB)!
+- 📖 Nowadays I'm studying Software Engineer at Universidade de Brasília (UnB)!
 
-- Estou muito interessado em aprender novas tecnologias e evoluir no mercado de desenvolvimento de software, com foco em Front-End!
+-  I'm really into learning new tecnologies and increase my habilities in software develop, specially in Front-End!
 
-- Tenho interesse em apoiar projetos de desenvolvimento web, onde tenho maior afinidade e competência!
+-  I'm very interested in web development projects, where I have greater affinity and competence!
+
+-  I want to learn new Frameworks and work on new projects!
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturRSA19&show_icons=true&theme=dark"/>
@@ -14,7 +16,7 @@
 </div>
 
 
-## 📱 Vamos nos conectar:
+## 📱 Let's connect oursefls:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/artur-rodrigues-baa097254/)
@@ -23,7 +25,7 @@
 )](https://twitter.com/Arturrsa19)
 
 
-## ⚙️ 💻 Tecnologias e Ferramentas que eu utilizo:
+## ⚙️ 💻 Tecnologies & tools I use:
 
 <div>
   <img align="center" alt="Artur-HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
