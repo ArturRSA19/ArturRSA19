@@ -16,7 +16,7 @@
 </div>
 
 
-## 📱 Let's connect oursefls:
+## 📱 Let's connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/artur-rodrigues-baa097254/)
@@ -34,6 +34,7 @@
   <img align="center" alt="Artur-Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
   <img align="center" alt="Artur-C++" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" alt="Artur-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+   <img align="center" alt="Artur-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
 
 <!---
