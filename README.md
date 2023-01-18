@@ -4,15 +4,15 @@
 
 - 📖 Nowadays I'm studying Software Engineer at Universidade de Brasília (UnB)!
 
--  I'm really into learning new tecnologies and increase my habilities in software develop, specially in Front-End!
+-  I'm really into learning new technologies and increase my abilities in software development, specially in Front-End!
 
 -  I'm very interested in web development projects, where I have greater affinity and competence!
 
 -  I want to learn new Frameworks and work on new projects!
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturRSA19&show_icons=true&theme=dark"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturRSA19&layout=compact&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturRSA19&show_icons=true&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturRSA19&layout=compact&theme=tokyonight"/>
 </div>
 
 
