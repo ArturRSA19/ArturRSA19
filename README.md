@@ -45,6 +45,7 @@
   <img align="center" alt="Artur-MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Artur-REACT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   <img align="center" alt="Artur-TAILWIND" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img align="center" alt="Artur-DOTNET" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
 </div>
 
 ![snake gif](https://github.com/ArturRSA19/ArturRSA19/blob/output/github-contribution-grid-snake.svg)
