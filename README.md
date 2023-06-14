@@ -9,7 +9,7 @@
 
 - 📖 Nowadays I'm studying Software Engineer at Universidade de Brasília (UnB). I'm in my fith semestrer!
 
--  I'm really into learning new technologies and increase my abilities in software development, specially in Front-End!
+-  I'm really into learning new technologies and increase my abilities in software development!
 
 -  I'm very interested in web development projects, where I have greater affinity and competence!
 
