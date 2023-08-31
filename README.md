@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Artur+Rodrigues.;I'm+20+years+old.;I+am+from+Brasília,+DF!;I+study+software+engeneering+at+UnB!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Artur+Rodrigues.;I'm+20+years+old.;I+am+from+Brasília,+DF!;I+study+software+engeneering+at+UnB!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 # Hi! 
@@ -16,8 +16,8 @@
 -  I want to learn new Frameworks and work on new projects!
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturRSA19&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturRSA19&layout=compact&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturRSA19&show_icons=true&theme=swift"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturRSA19&layout=compact&theme=swift"/>
 </div>
 
 
@@ -50,7 +50,7 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
 
 <!---
 ArturRSA19/ArturRSA19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
