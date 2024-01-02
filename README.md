@@ -16,9 +16,18 @@
 -  I want to learn new Frameworks and work on new projects!
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturRSA19&show_icons=true&theme=swift"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturRSA19&layout=compact&theme=swift"/>
+  <p align=center>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ArturRSA19&theme=swift&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  </p>
 </div>
+
+<div>
+   <p align=center>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturRSA19&show_icons=true&theme=swift"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturRSA19&layout=compact&theme=swift"/>
+   </p>
+</div>
+
 
 
 ## 📱 Let's connect:
@@ -45,8 +54,9 @@
   <img align="center" alt="Artur-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Artur-MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Artur-REACT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+   <img align="center" alt="Artur-REDUX" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
   <img align="center" alt="Artur-DOTNET" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
-   <img align="center" alt="Artur-DOTNET" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+   <img align="center" alt="Artur-FIGMA" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
 
 
