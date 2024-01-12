@@ -16,12 +16,6 @@
 -  I want to learn new Frameworks and work on new projects!
 
 <div>
-  <p align=center>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=ArturRSA19&theme=swift&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-  </p>
-</div>
-
-<div>
    <p align=center>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturRSA19&show_icons=true&theme=swift"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturRSA19&layout=compact&theme=swift"/>
