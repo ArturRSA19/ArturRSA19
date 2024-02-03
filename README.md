@@ -17,8 +17,9 @@
 
 <div>
    <p align=center>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturRSA19&show_icons=true&theme=swift"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturRSA19&layout=compact&theme=swift"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturRSA19&show_icons=true&theme=dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturRSA19&layout=compact&theme=dark"/>
+      <img height="180em" src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ArturRSA19&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000&theme=dark"
    </p>
 </div>
 
