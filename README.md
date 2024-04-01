@@ -53,7 +53,7 @@
   <img align="center" alt="Artur-DOTNET" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
    <img align="center" alt="Artur-FIGMA" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="center" alt="Artur-GIT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Artur-POSTMAN" height="30" width="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
+  <img align="center" alt="Artur-POSTMAN" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
    <img align="center" alt="Artur-Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 </div>
 
