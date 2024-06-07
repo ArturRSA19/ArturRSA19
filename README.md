@@ -43,6 +43,7 @@
    <img align="center" alt="Artur-REDUX" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
    <img align="center" alt="Artur-TAILWIND" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
    <img align="center" alt="Artur-DART" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>
+   <img align="center" alt="Artur-Flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg"/>
      <img align="center" alt="Artur-HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <img align="center" alt="Artur-CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
   <img align="center" alt="Artur-JavaScrpit" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
