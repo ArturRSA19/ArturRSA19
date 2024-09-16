@@ -7,7 +7,7 @@
 
 ## I'm Artur Rodrigues! 🧑🏻‍💻
 
--  Nowadays I'm studying Software Engineer at Universidade de Brasília (UnB). I'm in my sixth semestrer!!
+-  Nowadays I'm studying Software Engineer at Universidade de Brasília (UnB). I'm in my eight semestrer!!
 
 -  I'm really into learning new technologies and increase my abilities in software development!
 
