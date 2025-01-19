@@ -39,7 +39,6 @@
 <div>
   <img align="center" alt="Artur-TSX" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     <img align="center" alt="Artur-REACT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-   <img align="center" alt="Artur-Zod" height="30" width="30" src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png"/>
    <img align="center" alt="Artur-REDUX" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
    <img align="center" alt="Artur-TAILWIND" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
    <img align="center" alt="Artur-DART" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>
