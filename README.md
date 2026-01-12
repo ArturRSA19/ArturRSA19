@@ -1,19 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=28F0DD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Artur+Rodrigues.;I'm+22+years+old.;I+am+from+Brasília,+DF!;I+study+software+engeneering+at+UnB!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Artur+Rodrigues.;I'm+22+years+old.;I+am+from+Brazil,+Brasília,+DF!;I+am+a+Software+Engineer+graduated+at+UnB!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-# Hi! 
+# Hi!  
+## I'm Artur Rodrigues 👨🏻‍💻  
 
-## I'm Artur Rodrigues! 🧑🏻‍💻
+- I’m a **Software Engineer graduated from the University of Brasília (UnB)**, with a strong academic foundation and a practical, results-oriented approach to software development.
 
--  Nowadays I'm studying Software Engineer at Universidade de Brasília (UnB). I'm in my tenth and last semestrer!!
+- I work primarily as a **Full Stack Developer**, with experience across frontend and backend development, building scalable, well-structured, and maintainable applications. I value clean architecture, code quality, and best practices throughout the software lifecycle.
 
--  I'm really into learning new technologies and increase my abilities in software development!
+- In parallel, I have a growing focus on **Artificial Intelligence**, exploring how AI can be integrated into real-world systems to automate processes, enhance decision-making, and deliver smarter user experiences. I’m particularly interested in applied AI, data-driven solutions, and the intersection between software engineering and intelligent systems.
 
--  I'm very interested in web development projects, where I have greater affinity and competence!
+- I’m continuously learning new technologies, frameworks, and tools, and I’m motivated to contribute to challenging projects that require technical depth, collaboration, and long-term vision.
 
--  I want to learn new Frameworks and work on new projects!
 
 <div>
    <p align=center>
