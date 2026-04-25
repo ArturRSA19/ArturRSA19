@@ -46,19 +46,20 @@ My technical scope is broad and continuously expanding, ranging from cloud and a
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artur190503@outlook.com)
 
 
-## ⚙️ 💻 Tecnologies & tools I most use:
+## ⚙️ 💻 Technologies & tools I use the most:
 
-<div>
-   <img align="center" alt="Artur-TSX" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-   <img align="center" alt="Artur-Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
-   <img align="center" alt="Artur-NODE.JS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
-   <img align="center" alt="Artur-Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-   <img align="center" alt="Artur-Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-   <img align="center" alt="Artur-GIT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-   <img align="center" alt="Artur-POSTMAN" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
-   <img align="center" alt="Artur-Elastic" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg"/>
-   
-</div>
+<table>
+  <tr>
+    <td><img alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></td>
+    <td><img alt="Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/></td>
+    <td><img alt="Node.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/></td>
+    <td><img alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/></td>
+    <td><img alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></td>
+    <td><img alt="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></td>
+    <td><img alt="Postman" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/></td>
+    <td><img alt="Elasticsearch" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg"/></td>
+  </tr>
+</table>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=120&section=footer"/>
 
