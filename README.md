@@ -15,8 +15,6 @@ I have also been recognized for optimizing critical systems under real productio
 In addition to my engineering skills, I value clean, tested, and maintainable code, and I'm known for clear communication and a collaborative approach to problem-solving.
  
 I hold a Bachelor's degree in Software Engineering from the University of Brasília (UnB), and I'm currently pursuing a Master's degree in Software Engineering at the University of Porto (FEUP), Portugal.
- 
-📩 Open to connecting: arturrsa1905@gmail.com
 
 ---
 
