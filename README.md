@@ -6,11 +6,17 @@
 # Hi!  
 ## I'm Artur Rodrigues 👨🏻‍💻  
 
-Software Engineer graduated from the University of Brasília (UnB). I work primarily as a Full Stack Developer, focusing on the JavaScript/TypeScript ecosystem using Angular.js and Node.js to build scalable, well-structured applications. I have a strong background in architecting robust solutions, applying Design Patterns, and implementing unit tests to ensure clean, maintainable code across the entire software lifecycle.
-
-Beyond my core professional work, I am deeply involved with modern Generative AI architectures. A key highlight is my final degree project, where I built a RAG (Retrieval-Augmented Generation) application using a Python backend, an Angular frontend, and the Gemini 2.5 Pro API.
-
-My technical scope is broad and continuously expanding, ranging from cloud and architecture tools like AWS (S3, Glue, Lambda) and Kong API Gateway, to database management with SQL Server and mobile development with React Native. I thrive on solving complex problems with clean architecture, automated workflows, and a mindset geared toward data-driven, intelligent solutions.
+I'm Artur, a Full-Stack Software Engineer with 5 years of solid experience, building systems that span front-end, back-end, and infrastructure. I have hands-on expertise in Python, FastAPI, Node.js, Angular, Docker, Kubernetes, ELK, gRPC, and cloud platforms (AWS, GCP, and Azure), with practical experience in AWS Lambda, S3, and GCP Cloud Run for serverless and cloud-native deployments.
+ 
+Throughout my career, I worked with distributed systems, databases, operating systems, and software testing, which gave me the confidence to take on infrastructure and architecture decisions, not just feature work. More recently, I've been focused on applied AI, building LLM-powered pipelines, RAG systems, and AI agents that process and reason over real-world unstructured data.
+ 
+I have also been recognized for optimizing critical systems under real production constraints. In one case, I implemented prompt caching in an AI-powered transcription and data-extraction microservice, achieving an 89% reduction in token usage and cost, alongside improvements in WebSocket transaction performance and data consistency.
+ 
+In addition to my engineering skills, I value clean, tested, and maintainable code, and I'm known for clear communication and a collaborative approach to problem-solving.
+ 
+I hold a Bachelor's degree in Software Engineering from the University of Brasília (UnB), and I'm currently pursuing a Master's degree in Software Engineering at the University of Porto (FEUP), Portugal.
+ 
+📩 Open to connecting: arturrsa1905@gmail.com
 
 ---
 
